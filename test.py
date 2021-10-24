@@ -1,4 +1,3 @@
-import pytest
 import requests
 
 url_ddg = "https://api.duckduckgo.com"
