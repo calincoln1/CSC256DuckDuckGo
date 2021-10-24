@@ -1,1 +1,1 @@
-"# CSC256DuckDuckGo" 
+# CSC256DuckDuckGo
